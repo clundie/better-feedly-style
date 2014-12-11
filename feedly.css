@@ -5,6 +5,9 @@
   margin-top: 1rem !important;
   margin-bottom: 1rem !important;
 }
+#feedlyPage .entryBody img:hover {
+  max-width: 800px !important;
+}
 #feedlyPage .entryBody {
   font-size: 2rem !important;
   line-height: 1.8rem !important;
