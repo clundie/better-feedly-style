@@ -1,0 +1,43 @@
+#feedlyPage .entryBody img {
+  max-width: 100px !important;
+  float: right;
+  height: auto !important;
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
+#feedlyPage .entryBody {
+  font-size: 2rem !important;
+  line-height: 1.8rem !important;
+}
+#feedlyPage .entryBody td {
+  font-size: 2rem !important;
+  line-height: 1.8rem !important;
+}
+#feedlyPage .entryBody p {
+  margin-top: 14px !important;
+  margin-bottom: 14px !important;
+}
+#feedlyPage .websiteCallForAction {
+  display: none !important;
+  margin-top: 14px !important;
+}
+#feedlyPage .entryholder {
+  padding-bottom: 0 !important;
+}
+#feedlyPage .shareBarHolder {
+  display: none;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+#feedlyPage .headerInfo-article {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+#feedlyPage .entryTitle {
+  font-size: 1rem !important;
+  line-height: 1.2rem !important;
+}
+#feedlyPage .title {
+  font-size: 2rem !important;
+  line-height: 2.4rem !important;
+}
