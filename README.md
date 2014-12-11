@@ -11,5 +11,5 @@ It makes the Feedly display more dense, for example:
 
 - White space is reduced.
 - Line heights are reduced.
-- Images are limited to small sizes.
+- Images are limited to small sizes. You can zoom by hovering.
 - Sharing widgets and some other buttons are removed.
