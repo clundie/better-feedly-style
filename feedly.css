@@ -9,12 +9,12 @@
   max-width: 800px !important;
 }
 #feedlyPage .entryBody {
-  font-size: 2rem !important;
-  line-height: 1.8rem !important;
+  font-size: 14px !important;
+  line-height: 18px !important;
 }
 #feedlyPage .entryBody td {
-  font-size: 2rem !important;
-  line-height: 1.8rem !important;
+  font-size: 14px !important;
+  line-height: 18px !important;
 }
 #feedlyPage .entryBody p {
   margin-top: 14px !important;
@@ -37,10 +37,10 @@
   margin-bottom: 0 !important;
 }
 #feedlyPage .entryTitle {
-  font-size: 1rem !important;
-  line-height: 1.2rem !important;
+  font-size: 14px !important;
+  line-height: 18px !important;
 }
 #feedlyPage .title {
-  font-size: 2rem !important;
-  line-height: 2.4rem !important;
+  font-size: 18px !important;
+  line-height: 24px !important;
 }
