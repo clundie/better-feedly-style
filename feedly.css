@@ -1,9 +1,13 @@
+/* Old Feedly begin */
+
 #feedlyPage .entryBody img {
   max-width: 100px !important;
   float: right;
   height: auto !important;
   margin-top: 1rem !important;
   margin-bottom: 1rem !important;
+  transition: max-width 0.5s;
+  transition-timing-function: ease;
 }
 #feedlyPage .entryBody img:hover {
   max-width: 800px !important;
@@ -44,3 +48,53 @@
   font-size: 18px !important;
   line-height: 24px !important;
 }
+
+/* Old Feedly end */
+
+/* New Feedly begin */
+
+#feedlyFrame .entryBody img {
+  max-width: 100px !important;
+  float: right;
+  height: auto !important;
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+  transition: max-width 0.5s;
+  transition-timing-function: ease;
+}
+#feedlyFrame .entryBody img:hover {
+  max-width: 800px !important;
+}
+#feedlyFrame .visitWebsiteButton {
+  display: none !important;
+}
+#feedlyFrame .entryholder {
+  padding-bottom: 0 !important;
+}
+#feedlyFrame .shareBarHolder {
+  display: none;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+#feedlyFrame .entryHeader .entryTitle {
+  font-size: 18px !important;
+  line-height: 24px !important;
+}
+#feedlyFrame .entry .title {
+  font-size: 16px !important;
+  line-height: 18px !important;
+}
+#feedlyFrame .entryBody {
+  font-size: 14px !important;
+  line-height: 18px !important;
+}
+#feedlyFrame .entryBody td {
+  font-size: 14px !important;
+  line-height: 18px !important;
+}
+#feedlyFrame .entryBody p {
+  margin-top: 14px !important;
+  margin-bottom: 14px !important;
+}
+
+/* New Feedly end */
