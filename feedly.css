@@ -96,5 +96,9 @@
   margin-top: 14px !important;
   margin-bottom: 14px !important;
 }
+#feedlyFrame .inlineFrame {
+  -webkit-transition-duration: 0 !important;
+  transition-duration: 0 !important;
+}
 
 /* New Feedly end */
