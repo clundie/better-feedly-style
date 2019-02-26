@@ -1,15 +1,13 @@
 better-feedly-style
 ===================
 
-Better style sheet for Feedly
+My style sheet for Feedly
 
 Set `feedly.css` as a custom style sheet in your browser.
 
-I wrote this because Feedly's design wastes a lot of space compared with the way I like to read.
+This changes the look of my Feedly page to suit my preferences. I use the
+"Title-Only View" of the Today page.
 
-It makes the Feedly display more dense, for example:
-
-- White space is reduced.
-- Line heights are reduced.
+- Font sizes, line heights, and white space are changed.
 - Images are limited to small sizes. You can zoom by hovering.
 - Sharing widgets and some other buttons are removed.
