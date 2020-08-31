@@ -100,5 +100,11 @@
   -webkit-transition-duration: 0 !important;
   transition-duration: 0 !important;
 }
+#feedlyFrame .u100Entry {
+  max-width: 1000px !important;
+}
+#feedlyFrame .u100Entry .entryBody {
+  max-width: 800px !important;
+}
 
 /* New Feedly end */
