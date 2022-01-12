@@ -80,7 +80,7 @@
   font-size: 18px !important;
   line-height: 24px !important;
 }
-#feedlyFrame .entry .title {
+#feedlyFrame .entry .title, #feedlyFrame .entry__title {
   font-size: 16px !important;
   line-height: 18px !important;
 }
