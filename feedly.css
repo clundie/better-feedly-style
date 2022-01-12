@@ -106,5 +106,8 @@
 #feedlyFrame .u100Entry .entryBody {
   max-width: 800px !important;
 }
+#feedlyFrame main, #feedlyChrome, #feedlyChrome .TopHeaderBar, #feedlyChrome .LeftnavDock, #feedlyChrome header, #feedlyFrame article .entryholder {
+  background-color: rgb(241, 241, 241) !important;
+}
 
 /* New Feedly end */
